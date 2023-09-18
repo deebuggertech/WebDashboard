@@ -1,6 +1,6 @@
 # WebDashboard
 
-<img src="" align="left" width="50%"/>
+<img src="https://github.com/deebuggertech/WebDashboard/assets/73055949/dccb8daf-6132-4fc6-8b94-565f984e4967" align="left" width="50%"/>
 
 This repo contains a modular and responsive web dashboard. I wrote it some time ago as I needed a UI for my smart home / IOT projects but couldn't find a suitable free pre-built solution.  I'm not really into web development so the whole thing could be a bit messy, but it works (at least for me). <br><br>
 The user interface is very lightweight, so it can easily be deployed from a server running on an ESP8266 / ESP32, for example (with optimized caching and fetching of the chart library from a CND, of course). <br><br>
